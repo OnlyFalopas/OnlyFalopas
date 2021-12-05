@@ -1,26 +1,85 @@
-<h3>Ola pessoas 👋, Nosso nome é 'OnlyFalopas', somos um grupo de devs.</h3>
+### Hi people 👋 
 
-![](https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966)
+<p align="center">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"width="30px">
+  <span>We are the only falopas, a programming group</span>
+</p>
 
-![](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+<span><b>👨‍💻 Our focus is programming in these languages.</span>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyFalopas&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<p align="">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-![](https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966)
+<span><b> Our social networks.</span>
+  
+<p>
+  <a href="https://chat.whatsapp.com/Bg6UbziTowS9nluaLQj6LE"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://github.com/OnlyFalopas/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-![alt text](https://github.com/OnlyFalopas/OnlyFalopas/blob/main/falopas%20icon.jpeg)
+<span><b>Our members</span>
 
-<!--
-**OnlyFalopas/OnlyFalopas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+    <td align="center">
+      <a href="https://github.com/mrdiniz88">
+        <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/72531976.jpg" width="100px;" alt="Foto do diniz"/><br>
+        <sub>
+          <b pnclick="www.google.com">MR diniz</b>
+        </sub>
+      </a>
+    </td>
+  <td align="center">
+       <a href="https://github.com/Swag666baby">
+         <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/89675173.jpg" width="100px;" alt="Foto do swag"/><br>
+         <sub>
+           <b>SWAG</b>
+         </sub>
+       </a>
+   </td>
+   <td align="center">
+       <a href="https://github.com/Josh-Washington">
+         <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/89495720.jpg" width="100px;" alt="Foto do Josh"/><br>
+         <sub>
+           <b>Josh Washington</b>
+         </sub>
+       </a>
+   </td>
+   <td align="center">
+       <a href="https://github.com/Spyware0">
+         <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/87285320.jpg" width="100px;" alt="SPYWARE"/><br>
+        <sub>
+           <b>Spyware</b>
+        </sub>
+       </a>
+   </td>
+   
+  <td align="center">
+       <a href="https://github.com/GhostHype">
+         <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/78053137.png" width="100px;" alt="ghost"/><br>
+        <sub>
+           <b>GhostHype</b>
+        </sub>
+       </a>
+   </td>
+ <td align="center">
+       <a href="https://github.com/DioBruh/">
+         <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/87872423.jpg" width="100px;" alt="DIO"/><br>
+        <sub>
+           <b>Dio Brando</b>
+        </sub>
+       </a>
+   </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span><b>Our plataforms</span>
+  <p>
+    <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src=" 	https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+  </p>
